@@ -13,7 +13,6 @@ In this practical lab, students will:
 * Write MicroPython code
 * Display their **name on the LCD screen**
 
----
 
 # Required Components (Student Task)
 
