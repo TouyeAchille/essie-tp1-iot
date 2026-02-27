@@ -51,7 +51,7 @@ TP1 IoT
 Students can use:
 
 Library source:
-[https://github.com/Bucknalla/micropython-i2c-lcd](https://github.com/Bucknalla/micropython-i2c-lcd)
+[micropython-i2c-lcd](https://micropython-i2c-lcd.readthedocs.io/en/latest/readme_link.html)
 
 ## Wokwi Documentation
 
