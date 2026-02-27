@@ -26,14 +26,6 @@ Students must:
 6. Write the MicroPython program
 7. Run the simulation
 
-Students must verify the I2C address using:
-
-```python
-i2c.scan()
-```
-
----
-
 # Software Requirements
 
 Students must write a MicroPython program that:
@@ -61,28 +53,18 @@ Students can use:
 Library source:
 [https://github.com/Bucknalla/micropython-i2c-lcd](https://github.com/Bucknalla/micropython-i2c-lcd)
 
----
-
 ## Wokwi Documentation
 
 [https://docs.wokwi.com/](https://docs.wokwi.com/)
-
----
 
 ## ESP32 MicroPython Docs
 
 [https://docs.micropython.org/](https://docs.micropython.org/)
 
----
-
 # Submission Requirements
-- Send link of your wokwi projects by emaill
 
 Students must submit:
-
 * Wokwi project link OR project folder
-* `main.py`
-* Screenshot of LCD output
-* Short explanation of their implementation
+
 
 
